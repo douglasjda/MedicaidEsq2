@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MedicaidEsq",
-    "currentPage": "index.html",
+    "currentPage": "Software.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1084,9 +1084,10 @@
               "name": "question",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Client Initial Interview",
@@ -1100,9 +1101,10 @@
               "name": "idea",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Intuitive Asset Protection Wizard",
@@ -1113,12 +1115,13 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "edit",
-              "family": "MobiriseIcons",
+              "name": "search",
+              "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title3": "Wizard Tutorials",
@@ -1132,9 +1135,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title4": "Attorney Protection Strategies",
